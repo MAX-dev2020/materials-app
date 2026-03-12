@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/15ee397e-a050-41d2-88a7-a987b
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+https://dbdiagram.io/d/materials-app-69b27165cf54053b6f6bd987
